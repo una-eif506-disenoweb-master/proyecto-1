@@ -1,4 +1,4 @@
-# Proyecto 1 - Search Tech Jobs from GitHub API
+# Proyecto 1 - Website Tech Jobs from GitHub API
 
 | CODIGO: EIF506               | ESCUELA DE INFORMÁTICA       |
 | ---------------------------- | ---------------------------- |
